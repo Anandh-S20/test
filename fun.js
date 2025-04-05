@@ -1,7 +1,8 @@
 
 // Sample video data
 const videos = [
-    { title: "Video 1", link: "https://example.com/video1.mp4" },
+    { title: "Video 1", link:
+"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
     { title: "Video 2", link: "https://example.com/video2.mp4" },
     { title: "Video 3", link: "https://example.com/video3.mp4" },
 ];
