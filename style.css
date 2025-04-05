@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.video-container {
+    margin-bottom: 20px;
+}
+
+.video-list {
+    margin-top: 20px;
+}
+
+#video-list-ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#video-list-ul li {
+    margin-bottom: 10px;
+}
+
+#video-list-ul li a {
+    text-decoration: none;
+    color: #337ab7;
+}
+
+#video-list-ul li a:hover {
+    color: #23527c;
+}
+```
+
